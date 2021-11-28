@@ -5,10 +5,10 @@
 4. Update Jenkinsfile to put your registry details, 'registryCredential' and git link of the repo
 5. Jenkinsfile in this project does the following:
 
-**Clone the repo
+Clone the repo
 
-**Build the image
+Build the image
 
-**Push the image to registry hub
+Push the image to registry hub
 
-**Remove the image
+Remove the image
