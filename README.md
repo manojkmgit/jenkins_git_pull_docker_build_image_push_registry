@@ -4,7 +4,7 @@
 3. Set up jenkins to start build on commit of the git project or trigger the build manually
 4. Update Jenkinsfile to put your registry details, 'registryCredential' and git link of the repo
 5. Jenkinsfile in this project does the following:
-** Clone the repo
-Build the image
-Push the image to registry hub
-Remove the image
+**Clone the repo
+**Build the image
+**Push the image to registry hub
+**Remove the image
