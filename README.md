@@ -1,0 +1,1 @@
+# jenkins_docker_build_iamge_push_registry
