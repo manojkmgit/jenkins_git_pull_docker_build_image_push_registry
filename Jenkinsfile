@@ -12,7 +12,7 @@ pipeline {
                 git 'https://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@github.com/manojkmgit/jenkins_docker_build_image_push_registry.git'
                 git branch: "main", url: 'https://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@github.com/manojkmgit/jenkins_docker_build_image_push_registry.git'
             }
-        //}
+        }
         stage('Building our image') {
             steps {
                 script {
